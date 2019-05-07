@@ -1,9 +1,0 @@
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\bin\Release\netstandard2.0\AreaCalculator.deps.json
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\bin\Release\netstandard2.0\AreaCalculator.dll
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\bin\Release\netstandard2.0\AreaCalculator.pdb
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Release\netstandard2.0\AreaCalculator.csprojAssemblyReference.cache
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Release\netstandard2.0\AreaCalculator.csproj.CoreCompileInputs.cache
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Release\netstandard2.0\AreaCalculator.AssemblyInfoInputs.cache
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Release\netstandard2.0\AreaCalculator.AssemblyInfo.cs
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Release\netstandard2.0\AreaCalculator.dll
-C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Release\netstandard2.0\AreaCalculator.pdb
