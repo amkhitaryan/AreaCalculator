@@ -1,0 +1,9 @@
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\bin\Debug\netstandard2.0\SquareCalculator.deps.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\bin\Debug\netstandard2.0\SquareCalculator.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\bin\Debug\netstandard2.0\SquareCalculator.pdb
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Debug\netstandard2.0\SquareCalculator.csprojAssemblyReference.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Debug\netstandard2.0\SquareCalculator.csproj.CoreCompileInputs.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Debug\netstandard2.0\SquareCalculator.AssemblyInfoInputs.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Debug\netstandard2.0\SquareCalculator.AssemblyInfo.cs
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Debug\netstandard2.0\SquareCalculator.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculator\obj\Debug\netstandard2.0\SquareCalculator.pdb

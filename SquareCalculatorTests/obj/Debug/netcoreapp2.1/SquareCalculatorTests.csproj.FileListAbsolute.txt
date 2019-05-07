@@ -1,0 +1,17 @@
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculatorTests.deps.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculatorTests.runtimeconfig.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculatorTests.runtimeconfig.dev.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculatorTests.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculatorTests.pdb
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculator.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Debug\netcoreapp2.1\SquareCalculator.pdb
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.csprojAssemblyReference.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.AssemblyInfo.cs
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.csproj.CopyComplete
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Debug\netcoreapp2.1\SquareCalculatorTests.pdb
