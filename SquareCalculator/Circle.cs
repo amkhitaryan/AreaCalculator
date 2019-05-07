@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Linq;
 
-namespace SquareCalculator
+namespace AreaCalculator
 {
     public class Circle : Shape
     {

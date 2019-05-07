@@ -1,0 +1,17 @@
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculatorTests.deps.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculatorTests.runtimeconfig.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculatorTests.runtimeconfig.dev.json
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculatorTests.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculatorTests.pdb
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculator.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\bin\Release\netcoreapp2.1\AreaCalculator.pdb
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.csprojAssemblyReference.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.AssemblyInfo.cs
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.csproj.CopyComplete
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.dll
+C:\Users\d0g80\source\repos\SquareCalculator\SquareCalculatorTests\obj\Release\netcoreapp2.1\AreaCalculatorTests.pdb

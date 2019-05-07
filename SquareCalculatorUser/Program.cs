@@ -1,7 +1,7 @@
 ﻿using System;
-using SquareCalculator;
+using AreaCalculator;
 
-namespace SquareCalculatorUser
+namespace AreaCalculatorUser
 {
     class Program
     {

@@ -208,14 +208,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "SquareCalculator/1.0.0": {
+      "AreaCalculator/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/SquareCalculator.dll": {}
+          "bin/placeholder/AreaCalculator.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SquareCalculator.dll": {}
+          "bin/placeholder/AreaCalculator.dll": {}
         }
       }
     }
@@ -691,16 +691,16 @@
         "netstandard.library.nuspec"
       ]
     },
-    "SquareCalculator/1.0.0": {
+    "AreaCalculator/1.0.0": {
       "type": "project",
-      "path": "../SquareCalculator/SquareCalculator.csproj",
-      "msbuildProject": "../SquareCalculator/SquareCalculator.csproj"
+      "path": "../SquareCalculator/AreaCalculator.csproj",
+      "msbuildProject": "../SquareCalculator/AreaCalculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0",
-      "SquareCalculator >= 1.0.0"
+      "AreaCalculator >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -710,9 +710,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorUser\\SquareCalculatorUser.csproj",
-      "projectName": "SquareCalculatorUser",
-      "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorUser\\SquareCalculatorUser.csproj",
+      "projectUniqueName": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorUser\\AreaCalculatorUser.csproj",
+      "projectName": "AreaCalculatorUser",
+      "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorUser\\AreaCalculatorUser.csproj",
       "packagesPath": "C:\\Users\\d0g80\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorUser\\obj\\",
       "projectStyle": "PackageReference",
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\SquareCalculator.csproj": {
-              "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\SquareCalculator.csproj"
+            "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\AreaCalculator.csproj": {
+              "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\AreaCalculator.csproj"
             }
           }
         }

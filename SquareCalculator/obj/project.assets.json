@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\SquareCalculator.csproj",
-      "projectName": "SquareCalculator",
-      "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\SquareCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\AreaCalculator.csproj",
+      "projectName": "AreaCalculator",
+      "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\AreaCalculator.csproj",
       "packagesPath": "C:\\Users\\d0g80\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\obj\\",
       "projectStyle": "PackageReference",

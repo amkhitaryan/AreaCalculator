@@ -1618,14 +1618,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "SquareCalculator/1.0.0": {
+      "AreaCalculator/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/SquareCalculator.dll": {}
+          "bin/placeholder/AreaCalculator.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SquareCalculator.dll": {}
+          "bin/placeholder/AreaCalculator.dll": {}
         }
       }
     }
@@ -5820,19 +5820,19 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "SquareCalculator/1.0.0": {
+    "AreaCalculator/1.0.0": {
       "type": "project",
-      "path": "../SquareCalculator/SquareCalculator.csproj",
-      "msbuildProject": "../SquareCalculator/SquareCalculator.csproj"
+      "path": "../SquareCalculator/AreaCalculator.csproj",
+      "msbuildProject": "../SquareCalculator/AreaCalculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "AreaCalculator >= 1.0.0",
       "MSTest.TestAdapter >= 1.3.2",
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
-      "Microsoft.NETCore.App >= 2.1.0",
-      "SquareCalculator >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
   "packageFolders": {
@@ -5842,9 +5842,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorTests\\SquareCalculatorTests.csproj",
-      "projectName": "SquareCalculatorTests",
-      "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorTests\\SquareCalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorTests\\AreaCalculatorTests.csproj",
+      "projectName": "AreaCalculatorTests",
+      "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorTests\\AreaCalculatorTests.csproj",
       "packagesPath": "C:\\Users\\d0g80\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5865,8 +5865,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\SquareCalculator.csproj": {
-              "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\SquareCalculator.csproj"
+            "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\AreaCalculator.csproj": {
+              "projectPath": "C:\\Users\\d0g80\\source\\repos\\SquareCalculator\\SquareCalculator\\AreaCalculator.csproj"
             }
           }
         }

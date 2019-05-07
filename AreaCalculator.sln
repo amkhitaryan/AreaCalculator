@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareCalculator", "SquareCalculator\SquareCalculator.csproj", "{FEB67901-1E85-4664-B109-020A23710A84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculator", "SquareCalculator\AreaCalculator.csproj", "{FEB67901-1E85-4664-B109-020A23710A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalculatorUser", "SquareCalculatorUser\SquareCalculatorUser.csproj", "{8953663D-D3CA-4A79-B014-C381E348C5CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorUser", "SquareCalculatorUser\AreaCalculatorUser.csproj", "{8953663D-D3CA-4A79-B014-C381E348C5CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalculatorTests", "SquareCalculatorTests\SquareCalculatorTests.csproj", "{1BC66D08-4030-47E1-A9CE-AAC730A58949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorTests", "SquareCalculatorTests\AreaCalculatorTests.csproj", "{1BC66D08-4030-47E1-A9CE-AAC730A58949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,12 +1,12 @@
 using System;
 using System.ComponentModel;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SquareCalculator;
+using AreaCalculator;
 
-namespace SquareCalculatorTests
+namespace AreaCalculatorTests
 {
     [TestClass]
-    public class SquareCalculatorTests
+    public class AreaCalculatorTests
     {
         [TestMethod]
         public void Calculate_WithValidSides_ReturnsTriangleArea()

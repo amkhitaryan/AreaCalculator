@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SquareCalculator\SquareCalculator.csproj" />
+    <ProjectReference Include="..\SquareCalculator\AreaCalculator.csproj" />
   </ItemGroup>
 
 </Project>

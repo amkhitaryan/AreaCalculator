@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SquareCalculator
+namespace AreaCalculator
 {
     public abstract class Shape
     {
