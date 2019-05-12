@@ -1,36 +1,38 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Linq;
 
 namespace AreaCalculator
 {
-    public class Triangle : Shape
+    public class Triangle : Figure
     {
-        public Triangle(params int[] sides)
+        public int A { get; set; }
+        public int B { get; set; }
+        public int C { get; set; }
+
+        public Triangle(int a, int b, int c)
         {
-            if (sides.Length != 3) throw  new InvalidEnumArgumentException(nameof(Triangle) + " must have 3 sides");
-            Sides = sides.ToList();
+            A = a;
+            B = b;
+            C = c;
+            Validate();
         }
 
-        public override double CalculateArea()
+        public double CalculateArea()
         {
-            double area = 1;
-            var p = Sides.Sum() / 2.0;
+            var p = (A + B + C) / 2.0;
+            return Math.Sqrt(p * (p - A) * (p - B) * (p - C));
+        }
 
-            foreach (var side in Sides)
-            {
-                area *= p - side;
-            }
-
-            return Math.Sqrt(area * p);
-
+        private void Validate()
+        {
+            if (A <= 0 || B <= 0 || C <= 0)
+                throw new ArgumentOutOfRangeException(nameof(Triangle) + " sides of a triangle must be greater than 0");
         }
 
         public bool IsRightTriangle()
         {
-            return Sides[0] == (int) Math.Sqrt(Math.Pow(Sides[1], 2) + Math.Pow(Sides[2], 2)) ||
-                   Sides[1] == (int) Math.Sqrt(Math.Pow(Sides[0], 2) + Math.Pow(Sides[2], 2)) ||
-                   Sides[2] == (int) Math.Sqrt(Math.Pow(Sides[0], 2) + Math.Pow(Sides[1], 2));
+            return A == (int) Math.Sqrt(Math.Pow(B, 2) + Math.Pow(C, 2)) ||
+                   B == (int) Math.Sqrt(Math.Pow(A, 2) + Math.Pow(C, 2)) ||
+                   C == (int) Math.Sqrt(Math.Pow(A, 2) + Math.Pow(B, 2));
         }
     }
 }

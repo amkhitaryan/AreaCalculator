@@ -1,26 +1,25 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Linq;
 
 namespace AreaCalculator
 {
-    public class Circle : Shape
+    public class Circle : Figure
     {
-        public Circle(params int[] radius)
+        public int R { get; set; }
+
+        public Circle(int radius)
         {
-            if (radius.Length == 1)
-            {
-                Sides = radius.ToList();
-            }
-            else
-            {
-                throw new InvalidEnumArgumentException(nameof(Circle) + " radius is missing or invalid");
-            }
+            R = radius;
+            Validate();
         }
 
-        public override double CalculateArea()
+        public double CalculateArea()
         {
-            return Math.PI * Math.Pow(Sides.FirstOrDefault(), 2);
+            return Math.PI * Math.Pow(R, 2);
+        }
+
+        private void Validate()
+        {
+            if (R <= 0) throw new ArgumentOutOfRangeException(nameof(Circle) + " radius must be greater than 0");
         }
     }
 }
