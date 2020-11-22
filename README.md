@@ -1,6 +1,4 @@
 # AreaCalculator
-Test project for company 1.
-
 DLL for calculating area for circle by radius and triangle by 3 sides.
 
 Additional: 
